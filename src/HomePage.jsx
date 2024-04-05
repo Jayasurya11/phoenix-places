@@ -9,6 +9,7 @@ const HomePage = () => {
         <img src="/images/main1.jpg" className='w-screen max-h-[600px]'/>
         <img src="/images/pic2.jpg" className='w-screen max-h-[600px]'/>
         <img src="/images/pic3.jpg" className='w-screen max-h-[600px]'/>
+        <img src="/images/pic4.jpg" className='w-screen max-h-[600px]'/>
         
 
     </div>
